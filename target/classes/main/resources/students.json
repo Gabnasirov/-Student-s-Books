@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ivan",
+    "books": [
+      {"title": "Adventure Island", "author": "Tom White", "year": 2005, "pages": 230},
+      {"title": "Mystery of the Old House", "author": "Anna Brown", "year": 2003, "pages": 310},
+      {"title": "Journey to the Mountains", "author": "David Green", "year": 2010, "pages": 280},
+      {"title": "Summer Stories", "author": "Kate Wilson", "year": 2001, "pages": 190},
+      {"title": "The Lost City", "author": "Robert King", "year": 2008, "pages": 340}
+    ]
+  },
+  {
+    "name": "Artem",
+    "books": [
+      {"title": "Sea Adventure", "author": "John Blue", "year": 2004, "pages": 250},
+      {"title": "Hidden Treasure", "author": "Mike Stone", "year": 2007, "pages": 300},
+      {"title": "Night in the Forest", "author": "Anna Hill", "year": 1999, "pages": 200},
+      {"title": "Golden Island", "author": "Peter Black", "year": 2015, "pages": 350},
+      {"title": "Desert Journey", "author": "Lisa White", "year": 2002, "pages": 280}
+    ]
+  },
+  {
+    "name": "Maria",
+    "books": [
+      {"title": "Silent River", "author": "Tom Green", "year": 2001, "pages": 210},
+      {"title": "Dark Castle", "author": "John Brown", "year": 1998, "pages": 320},
+      {"title": "Snow Adventure", "author": "Anna Frost", "year": 2006, "pages": 275},
+      {"title": "Lonely Mountain", "author": "Peter Rock", "year": 2003, "pages": 290},
+      {"title": "Lost Village", "author": "David King", "year": 2012, "pages": 310}
+    ]
+  }
+]
